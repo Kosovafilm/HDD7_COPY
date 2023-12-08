@@ -4,41 +4,45 @@ HDD 7
 - QKK DCP/ FOLDER/
 1. Ajo
 2. Bloom
-3. Eho
-4. Hana e re
-5. Heroi
-6. Heshtja e sirenave
-7. Home Sweet Home
-8. Lekura e krokodilit
-9. The Hill Where Lionesses Roar
-10. The Land Within Me 
-11. Tri dritare dhe nje varje
-12. The Land Within Me
-13. Unwanted
-14. Vera andrron detin
+3. Bota jone
+4. Eho
+5. Hana e re
+6. Heroi
+7. Heshtja e sirenave
+8. Home Sweet Home
+9. I Love You More
+10. Lekura e krokodilit
+11. Sign
+12. The Hill Where Lionesses Roar
+13. The Land Within Me 
+14. Tri dritare dhe nje varje
+15. The Land Within Me
+16. Tri dritare dhe nje varje
+17. Unwanted
+18. Vera andrron detin
 
 
 	- QKK Dokumentare/ FOLDER
 1. DRUMS OF RESISTANCE
+2. Mbijetesa dhe shkolla
+3. The Hug of Destiny
 
-	- QKK MINORITY/FOLDER
-1. BURRNESHA DCP 
-
+	
    	- QKK Screeners/FOLDER
-2.	Cold November_Screener
-3.	Eho_Screener
-4.	HIVE_Screener HIGH
-5.	HIVE_Screener LOW
-6.	Home Hweet Home 2_Screners
-7.	Luaneshat e kodres_Screener
-8.	Martesa_Screener
-9.	Nje Tregim Prishtine_Screener
-10.	Pranvere e paharruar_Screener
-11.	Shtepia e Ages_Screener
-12.	The Flying Circus_Screener
-13.	Unwanted_Screener
-14.	Vera andrron detin_Screener
-16.	Zana_Screener
+4.	Cold November_Screener
+5.	Eho_Screener
+6.	HIVE_Screener HIGH
+7.	HIVE_Screener LOW
+8.	Home Hweet Home 2_Screners
+9.	Luaneshat e kodres_Screener
+10.	Martesa_Screener
+11.	Nje Tregim Prishtine_Screener
+12.	Pranvere e paharruar_Screener
+13.	Shtepia e Ages_Screener
+14.	The Flying Circus_Screener
+15.	Unwanted_Screener
+16.	Vera andrron detin_Screener
+17.	Zana_Screener
 
 	- QKK Screeners DVD/FOLDER
 1.	BABAI DVD
