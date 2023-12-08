@@ -1,4 +1,3 @@
-# HDD7_COPY
 HDD 7
 
 - QKK DCP/ FOLDER/
@@ -29,20 +28,21 @@ HDD 7
 
 	
    	- QKK Screeners/FOLDER
-4.	Cold November_Screener
-5.	Eho_Screener
-6.	HIVE_Screener HIGH
-7.	HIVE_Screener LOW
-8.	Home Hweet Home 2_Screners
-9.	Luaneshat e kodres_Screener
-10.	Martesa_Screener
-11.	Nje Tregim Prishtine_Screener
-12.	Pranvere e paharruar_Screener
-13.	Shtepia e Ages_Screener
-14.	The Flying Circus_Screener
-15.	Unwanted_Screener
-16.	Vera andrron detin_Screener
-17.	Zana_Screener
+2.	Babai_Screener
+3.	Cold November_Screener
+4.	Eho_Screener
+5.	HIVE_Screener HIGH
+6.	HIVE_Screener LOW
+7.	Home Hweet Home 2_Screners
+8.	Luaneshat e kodres_Screener
+9.	Martesa_Screener
+10.	Nje Tregim Prishtine_Screener
+11.	Pranvere e paharruar_Screener
+12.	Shtepia e Ages_Screener
+13.	The Flying Circus_Screener
+14.	Unwanted_Screener
+15.	Vera andrron detin_Screener
+16.	Zana_Screener
 
 	- QKK Screeners DVD/FOLDER
 1.	BABAI DVD
