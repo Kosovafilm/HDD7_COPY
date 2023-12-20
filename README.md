@@ -25,6 +25,7 @@ HDD 7
 1. DRUMS OF RESISTANCE
 2. Mbijetesa dhe shkolla
 3. The Hug of Destiny
+4. Si e verdhe e semure
 
 	
    	- QKK Screeners/FOLDER
